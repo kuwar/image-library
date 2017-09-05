@@ -1,12 +1,9 @@
 
 TITLE: 
-Hydrogen - Responsive Free HTML5 template
+Hangetsu Potteries
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
-http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+Saurav Kuwar
 
 
 CREDITS:
@@ -43,6 +40,3 @@ https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
 
 Magnific Popup
 http://dimsemenov.com/plugins/magnific-popup/
-
-
-
